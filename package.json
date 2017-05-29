@@ -1,0 +1,15 @@
+{
+  "name": "nocker",
+  "version": "1.0.0",
+  "description": "Node.js web app on Docker",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon -L ./server.js"
+  },
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
