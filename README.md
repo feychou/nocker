@@ -7,6 +7,7 @@ Goodies:
 
 ## Prerequisites
 [Make sure Docker is installed on your machine](https://docs.docker.com/engine/installation/).
+
 [Also make sure Docker Compose is installed on your machine](https://docs.docker.com/compose/install/).
 
 ## Installation
