@@ -7,9 +7,9 @@ Goodies:
 - [Nodemon](https://nodemon.io/)
 
 ## Prerequisites
-[Make sure Docker is installed on your machine](https://docs.docker.com/engine/installation/).
+Make sure [Docker](https://docs.docker.com/engine/installation/) is installed on your machine.
 
-[Also make sure Docker Compose is installed on your machine](https://docs.docker.com/compose/install/).
+Also make sure [Docker Compose](https://docs.docker.com/compose/install/) is installed on your machine.
 
 ## Installation
 In order to bootstrap your own app, clone the repo (`git clone git@github.com:feychou/nocker.git`) and delete its `.git` folder. You're good to go!
