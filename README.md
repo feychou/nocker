@@ -4,6 +4,7 @@ Dockerized Node.js web application for development and production.
 Goodies:
 - [Alpine Linux](https://hub.docker.com/_/alpine/), 5MB distribution ideal for Docker images.
 - [Yarn](https://yarnpkg.com/en/).
+- [Nodemon](https://nodemon.io/).
 
 ## Prerequisites
 [Make sure Docker is installed on your machine](https://docs.docker.com/engine/installation/).
