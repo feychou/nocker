@@ -16,4 +16,3 @@ RUN yarn install
 COPY . /home/app
 
 EXPOSE 8080
-CMD [ "yarn", "start"]

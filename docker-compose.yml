@@ -1,5 +1,6 @@
 app:
   build: .
+  command: yarn start-dev
   environment:
     NODE_ENV: development
   ports:
