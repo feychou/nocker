@@ -11,7 +11,7 @@ In such a case, in order to start your app in dev mode you would run `npm run st
 
 ## Prerequisites
 Make sure [Docker](https://docs.docker.com/engine/installation/) is installed on your machine.
-Also, make sure [Docker Compose](https://docs.docker.com/compose/install/) is installed on your machine.
+Also, make sure [Docker Compose](https://docs.docker.com/compose/install/) is.
 
 ## Installation
 In order to bootstrap your own app, clone the repo (`git clone git@github.com:feychou/nocker.git`) and delete its `.git` folder. You're good to go!
