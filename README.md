@@ -1,4 +1,4 @@
-# nocker
+# :smiling_imp: nocker
 Dockerized Node.js web application skeleton for development and production.
 
 Goodies:
