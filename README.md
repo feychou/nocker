@@ -15,4 +15,4 @@ In order to bootstrap your own app, clone the repo (`git clone git@github.com:fe
 
 `docker-compose build` builds your container.
 
-`docker-compose up` starts your app (nodemon ensures server reload).
+`docker-compose up` starts your app in development mode (nodemon ensures server reload).
