@@ -2,7 +2,7 @@
 Dockerized Node.js web application skeleton for development and production.
 
 Goodies:
-- [Alpine Linux](https://hub.docker.com/_/alpine/), 5MB distribution ideal for Docker images
+- [Alpine Linux](https://hub.docker.com/_/alpine/), tiny Linux distribution ideal for a Docker image (5MB)
 - [Yarn](https://yarnpkg.com/en/)
 - [Nodemon](https://nodemon.io/)
 
