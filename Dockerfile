@@ -12,7 +12,7 @@ RUN echo -e 'http://dl-cdn.alpinelinux.org/alpine/edge/main\nhttp://dl-cdn.alpin
 COPY package.json /home/app
 RUN yarn install
 
-# Bundle app soure
+# Bundle app source
 COPY . /home/app
 
 EXPOSE 8080
