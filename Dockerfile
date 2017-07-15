@@ -6,9 +6,6 @@ RUN mkdir -p /home/app
 # Bundle app soure
 COPY . /home/app
 
-# Install app dependencies
-COPY package.json /home/app
-
 # From now on we work in /home/app
 WORKDIR /home/app
 
